@@ -20,6 +20,7 @@ def login (pswd)
 
 end
 def welcome_screen
+system "clear"
 	puts "welcome bro"
 end
 
